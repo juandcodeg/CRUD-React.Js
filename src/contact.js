@@ -5,7 +5,7 @@ function Contact() {
     <React.Fragment>
       <h1>Desarrollo</h1>
       <h2>Juan David Gamboa</h2>
-      <a href="https://github.com/7uandalon1">github</a>
+      <a href="https://github.com/juandcodeg">github</a>
     </React.Fragment>
   );
 }
